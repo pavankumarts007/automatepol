@@ -17,7 +17,8 @@ copy driver file to c:/python27/scripts/
 `
 
 `
+change url xxxx to id of poll
+change id xx to option number
 run code using 
-
 python poll.py
 `

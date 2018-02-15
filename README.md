@@ -15,9 +15,9 @@ pip install selenium
 `
 copy driver file to c:/python27/scripts/
 `
+
 `
 run code using 
 
 python poll.py
-
 `
